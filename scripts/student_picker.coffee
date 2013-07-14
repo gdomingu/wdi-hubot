@@ -32,4 +32,4 @@ random_student = (list) ->
 lists =
   wdi1: ["That class is over; nobody cares."]
   wdi2: ["Franky", "Isaac", "Elizabeth", "Neil", "Zara", "YKat", "Eric", "Alex", "Claire", "Adam", "Tom", "Amy", "Baylee", "Christina", "Patsy", "Jason", "Gabe", "Harrison"]
-  wdi3: ["Send Sumeet an array of WDI3's students' names."]
+  wdi3: ["Donielle", "Dave", "Kristine", "Ricky", "Brian", "Xiao", "Ian", "Ryan", "Karl", "Sharif", "Robert", "Lauren", "Joshua", "Elen", "Lior", "Alex", "Justin"]
